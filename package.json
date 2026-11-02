@@ -1,0 +1,9 @@
+{
+  "name": "tic-tac-toe-six-servo-arm",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests/core.test.mjs"
+  }
+}

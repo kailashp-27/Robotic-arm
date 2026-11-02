@@ -1,0 +1,9 @@
+{
+  "board": "Arduino Uno / ATmega328P",
+  "build": "offline official AVR core + Servo library",
+  "flash_bytes": 17686,
+  "flash_available": 32256,
+  "static_ram_bytes": 948,
+  "ram_available": 2048,
+  "upload_performed": false
+}

@@ -1,0 +1,17 @@
+# Local dependencies and generated verification output
+node_modules/
+__pycache__/
+*.py[cod]
+build/
+
+# Local credentials, calibration backups and editor files
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db

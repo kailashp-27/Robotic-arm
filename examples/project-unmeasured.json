@@ -1,0 +1,116 @@
+{
+  "schema": 2,
+  "title": "Tic-Tac-Toe Playing Robotic Arm",
+  "route": "taught",
+  "geometry": {
+    "source": "assumed",
+    "shoulderHeight": 95,
+    "upper": 130,
+    "forearm": 120,
+    "tool": 65,
+    "boardOrigin": [
+      130,
+      -50,
+      20
+    ],
+    "cell": 40,
+    "yaw": 0,
+    "clearance": 80,
+    "toolPitch": -90,
+    "branch": -1,
+    "home": [
+      140,
+      0,
+      140
+    ],
+    "pick": [
+      145,
+      -85,
+      20
+    ]
+  },
+  "mapping": {
+    "measured": false,
+    "base": {
+      "zeroCount": null,
+      "zeroAngle": null,
+      "degreesPerMs": null,
+      "stopUs": null,
+      "offsetUs": null,
+      "ratio": null
+    },
+    "positional": [
+      {
+        "joint": "Shoulder",
+        "zeroUs": null,
+        "zeroDeg": null,
+        "usPerDeg": null,
+        "minUs": null,
+        "maxUs": null
+      },
+      {
+        "joint": "Elbow",
+        "zeroUs": null,
+        "zeroDeg": null,
+        "usPerDeg": null,
+        "minUs": null,
+        "maxUs": null
+      },
+      {
+        "joint": "Wrist rotation",
+        "zeroUs": null,
+        "zeroDeg": null,
+        "usPerDeg": null,
+        "minUs": null,
+        "maxUs": null
+      },
+      {
+        "joint": "Wrist pitch",
+        "zeroUs": null,
+        "zeroDeg": null,
+        "usPerDeg": null,
+        "minUs": null,
+        "maxUs": null
+      }
+    ]
+  },
+  "cells": [
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    },
+    {
+      "above": null,
+      "place": null
+    }
+  ],
+  "notes": ""
+}
